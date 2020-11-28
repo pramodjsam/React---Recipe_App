@@ -11,4 +11,4 @@ A react web app to fetch different recipes around the globe.
 ---
 
 ## Finished Website
-The link for the finished website is - [Recipe-App](https://react-recipe-app-project1.netlify.app/) 
+The link for the finished website is - [Click Here](https://react-recipe-app-project1.netlify.app/) 
